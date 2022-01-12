@@ -1,4 +1,5 @@
 # ProyectoEjemplo
 Mi segundo repositorio de github
 
-agrege mas lineas
+# Documentacion 2 (dev2)
+documentacion del desarrollador 2
